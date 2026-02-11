@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EquiSplit - Smart Expense Solver",
+  "description": "An advanced group expense manager with weighted splits, fairness analytics, and AI-driven conflict resolution.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
